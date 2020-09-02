@@ -11,3 +11,7 @@ b) Find the largest element in given array
 
 #Lab3- 19-08-2020
 Perform implementation of queue using array and link list in banking system and make a menu driven program which should accepts Customer ID as values to be stored in queue. Perform insertion and deletion both.
+
+#Lab3-
+#Lab4- Date: 2-9-2020
+Write a program to implement priority queue
